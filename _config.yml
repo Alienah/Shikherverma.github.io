@@ -1,31 +1,32 @@
 # Site settings
-title: My Territory
-default_author: Shikher Verma
-description: "Online Territory of Shikher Verma"  # used in site head
+title: Code Learning
+default_author: Aida Albarrán
+description: "El blog de una developer con ansias de aprender. Por Aida Albarrán."  # used in site head
 
 # register on google analytics and replace this token
-google_analytics: UA-75681059-1
+google_analytics: UA-137864641-1
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: shikherverma.com
-disqus_id: shikherverma
+disqus_url: alienah.github.io/
+disqus_id: aidaalbarran
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
-feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
+# feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
 
 # footer details. Deleting the value would remove it from footer.
-github_username:  shikherverma
+github_username:  Alienah
 facebook_username:
-email: root@shikherverma.com
+email:
 stackoverflow_username:
-twitter_username : shikherverma42
-linkedin_username : shikherverma42
+twitter_username : aidaispro
+linkedin_username : aidaalbarran
 keybase_username :
-copyright_name: Shikher Verma
+copyright_name: Aida Albarrán
+medium_username: Aida_Pro_
 rss : false
 
 # used for portfolio on home page
-collections:
-  - portfolio
+# collections:
+#   - portfolio
 
 # used to estimate reading time
 wpm: 150
