@@ -6,7 +6,7 @@ date:       2016-07-05 09:37:00
 author:     "Shikher Verma"
 header-img: "img/posts/screw-laptop-bg.jpg"
 comments: true
-tags: [ CodeMonkey ]
+tags: [ Javascript ]
 ---
 *Warning: Stunts performed by crazy roboticist ! Don't try at home :P*
 
