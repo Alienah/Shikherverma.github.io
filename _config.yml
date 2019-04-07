@@ -7,7 +7,7 @@ description: "El blog de una developer con ansias de aprender. Por Aida Albarrá
 google_analytics: UA-137864641-1
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: alienah.github.io/
+disqus_url: https-alienah-github-io
 disqus_id: aidaalbarran
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
 # feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
